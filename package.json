@@ -1,0 +1,28 @@
+{
+  "name": "uniapp-fs",
+  "version": "1.0.0",
+  "description": "基于uniapp的文件系统插件，兼容微信小程序、h5、APP",
+  "main": "fs.ts",
+  "keywords": ["uniapp-fs", "uniapp", "fs", "miniprogram", "vue2", "vue3", "h5", "app"],
+  "author": {
+    "name": "黄某",
+    "email": "839900146@qq.com",
+    "url": "https://github.com/839900146/uniapp-fs.git"
+  },
+  "homepage": "https://github.com/839900146/uniapp-fs.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/839900146/uniapp-fs.git",
+    "email": "839900146@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/839900146/uniapp-fs.git"
+  },
+  "dependencies": {
+    "spark-md5": "^3.0.2"
+  },
+  "engines": {
+    "node": "12"
+  }
+}
