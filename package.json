@@ -1,6 +1,6 @@
 {
   "name": "uniapp-fs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于uniapp的文件系统插件，兼容微信小程序、h5、APP",
   "main": "fs.ts",
   "keywords": ["uniapp-fs", "uniapp", "fs", "miniprogram", "vue2", "vue3", "h5", "app"],
@@ -23,6 +23,6 @@
     "spark-md5": "^3.0.2"
   },
   "engines": {
-    "node": "12"
+    "node": ">=12"
   }
 }
