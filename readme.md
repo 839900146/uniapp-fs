@@ -30,7 +30,7 @@
 </template>
 
 <script lang="ts" setup>
-	import fs from '@/plugins/fs-system/fs'
+	import fs from 'uniapp-fs'
 
 	const writeTextFile = () => {
 		// H5平台中，数据可以是任意类型
